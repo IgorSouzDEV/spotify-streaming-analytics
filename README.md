@@ -202,5 +202,10 @@ O dashboard apresenta:
 
 ---
 
+📓 [Ver notebook completo de exploração](notebooks/01_exploracao_spotify.py)  
+📓 [Ver notebook completo do pipeline](notebooks/02_pipeline_bronze_silver_gold.py)
+
+---
+
 **Autor:** [Igor de Souza Aguiar](https://github.com/IgorSouzDEV)  
 **LinkedIn:** [Igor de Souza Aguiar](https://www.linkedin.com/in/igor-de-souza-aguiar-1259a9168/)
